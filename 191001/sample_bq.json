@@ -1,0 +1,1 @@
+{ "BigQuery Schema": [ { "name": "a1", "type": "STRING" }, { "name": "a2", "type": "STRING" },{ "name": "a3", "type": "STRING" },{ "name": "a4", "type": "STRING" },{ "name": "a5", "type": "STRING" },{ "name": "a6", "type": "STRING" },{ "name": "a7", "type": "STRING" },{ "name": "cv", "type": "STRING" }] }
