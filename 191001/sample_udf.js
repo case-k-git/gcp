@@ -1,5 +1,5 @@
 function transform(line) {
-var values = line.split(',');
+var values = line.split(' ');
 
 var obj = new Object();
 obj.a1= values[0];
