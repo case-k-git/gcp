@@ -28,7 +28,7 @@ default_dag_args = {
 template_path = 'gs://{}/template/GCS_TO_GCS_5'.format(project_id)
 with models.DAG(
         'composer_dataflowtemplate1016_3',
-        schedule_interval='@daily',
+        schedule_interval='@once',
         default_args=default_dag_args,
         concurrency=1,
         max_active_runs=1) as dag:
