@@ -1,4 +1,8 @@
 cousera
-! git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+!git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+# tensorflow
+training-data-analystcoursesmachine_learningtensorflow/
+# cloud ml
+training-data-analystcoursesmachine_learningcloudmletaxifaretrainer/
 
 !git clone https://github.com/hayatoy/gcpsysml-book
