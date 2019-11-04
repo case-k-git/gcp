@@ -89,7 +89,6 @@ subscriber.create_subscription(
 # In[35]:
 
 
-# ここを実行するとメッセージが確認できなくなる、
 def callback(message):
     print(message.data)
     message.ack()
